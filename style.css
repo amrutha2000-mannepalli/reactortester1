@@ -1,8 +1,15 @@
- #shape{
-     width: 150px;
-     height:150px;
+
+.bodyclass{
+    text-align: center;
+    margin-top: 50px;
+     font-family: Arial, sans-serif;
+}
+#shape{
+
+     width: 200px;
+     height:200px;
      /* margin-top: 50px; */
       border: 1px solid black; 
-      position:relative;
+      position:absolute;
      background-color: brown;
 }
